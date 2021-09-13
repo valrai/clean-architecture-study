@@ -1,0 +1,3 @@
+[submodule "nodejs/todo-list"]
+	path = nodejs/todo-list
+	url = https://github.com:valrai/todo-list.git
